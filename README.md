@@ -7,5 +7,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoniBLopez&custom_title=Antoni's%20GitHub%20stats&theme=algolia&hide_border=true&count_private=true&hide=contribs,issues)
+
+<!-- Without hidden contribs and issues -->
+<!-- ![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoniBLopez&custom_title=Antoni's%20GitHub%20stats&theme=algolia&hide_border=true&count_private=true) -->
+
+<!-- All Commits Included -->
+<!-- ![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoniBLopez&custom_title=Antoni's%20GitHub%20stats&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues) -->
+
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
