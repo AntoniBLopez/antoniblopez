@@ -17,7 +17,7 @@
 
 <div style="display:flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoniBLopez&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AntoniBLopez&custom_title=Antoni's%20GitHub%20stats&theme=algolia&hide_border=true&count_private=true&hide=contribs,issues" alt="GitHub Stats" style="margin-right: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AntoniBLopez&custom_title=Antoni's%20GitHub%20stats&theme=algolia&hide_border=true&count_private=true&hide=contribs,issues" alt="GitHub Stats" />
 </div>
 
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
