@@ -1,3 +1,5 @@
+![Texto alternativo](/assets/githubBanner.png)
+
 ## **About me**
 <br>
 
