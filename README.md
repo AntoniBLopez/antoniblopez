@@ -1,4 +1,4 @@
-![Github Banner](/assets/githubBanner.png)
+![Github Banner](/assets/githubBannerV2.png)
 
 <h1  align="center">👋🏼 Hi! My name is Antoni 👋🏼</h1>
 <h3 align="center">A Frontend Developer from Barcelona, Spain</h3>
