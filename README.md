@@ -1,7 +1,7 @@
 ![Github Banner](/assets/githubBannerV2.png)
 
 <h1  align="center">Hi! My name is Antoni.</h1>
-<h3 align="center">A Frontend Developer from Barcelona, Spain</h3>
+<h3 align="center">A Full-Stack Developer from Barcelona, Spain</h3>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
